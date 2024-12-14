@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978117804184",
+    "project_id": "atw-login-d745d",
+    "storage_bucket": "atw-login-d745d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978117804184:android:70166c389d68c0f63c50ed",
+        "android_client_info": {
+          "package_name": "com.example.atw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvlhyR2BsuqIBG-D8G_iZxTBQlDg12uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
